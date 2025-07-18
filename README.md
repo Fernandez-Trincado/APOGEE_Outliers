@@ -1,15 +1,23 @@
-# Open Clusters Members in the APOGEE DR17. I. Using Clustering Algorithm HDBSCAN to Find Memberships
+# UCN Nucleus in Galactic Archaeology
 
-# Authors
+**UCN:** Universidad Catolica del Norte, Antofagasta, 0610
+**Created** 2022
 
-**R. Guerco**(1), et al.
+# Team
 
-# Affiliations
-1. Instituto de Astronomía, Universidad Católica del Norte, Av. Angamos 0610, Antofagasta, Chile
+**Director:** Dr. Jose G. Fernandez Trincado (Associate Professor)
+**Principal Researchers:** 
+- Dr. Christian Moni Bidin (Associate Professor)
+- Dr. Francesco Mauro (Professor)
 
-# Relevant publications
+**Adjunct Researchers**
+- Dr. Elisa R. Garro (ESO Fellows)
+- Dr. Mario Ortigoza Urdaneta (Professor, Universidad de Atacama)
 
-A) XXXX
+**Young Researchers:** 
+- Dr. Casmir Obasi (Postdoc ESO Comite Mixto; Milky Way and Local Group)
+- Dr. Rafael Guerco Fraga (ANID Fondecyt Postdoc; Milky Way and Local Group)
+- Dr. Danilo Gonzalez (Postdoc ANID ALMA; Milky Way and Local Group)
 
 # Acknowledgements
 
@@ -19,5 +27,5 @@ A) XXXX
 
 Please let me know if you have any questions or suggestions: rafael.fraga@ucn.cl
 
-URL: https://fernandez-trincado.github.io/Fraga/index.html
+URL: https://fernandez-trincado.github.io/UCNGalacticArchaeology/index.html
 
