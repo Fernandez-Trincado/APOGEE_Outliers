@@ -7,20 +7,20 @@
 # Team
 
 **Director:** 
-- Dr. Jose G. Fernandez Trincado (Associate Professor)
+- Dr. Jose G. Fernandez Trincado (Associate Professor) / Universidad Catolica del Norte
 
 **Principal Researchers:** 
-- Dr. Christian Moni Bidin (Associate Professor)
-- Dr. Francesco Mauro (Professor)
+- Dr. Christian Moni Bidin (Associate Professor) / Universidad Catolica del Norte
+- Dr. Francesco Mauro (Professor) / Universidad Catolica del Norte
 
-**Adjunct Researchers**
-- Dr. Elisa R. Garro (ESO Fellows)
-- Dr. Mario Ortigoza Urdaneta (Professor, Universidad de Atacama)
+**Adjunct Researchers:**
+- Dr. Elisa R. Garro (ESO Fellows) / ESO Santiago
+- Dr. Mario Ortigoza Urdaneta (Professor) / Universidad de Atacama
 
 **Young Researchers:** 
-- Dr. Casmir Obasi (Postdoc ESO Comite Mixto; Milky Way and Local Group)
-- Dr. Rafael Guerco Fraga (ANID Fondecyt Postdoc; Milky Way and Local Group)
-- Dr. Danilo Gonzalez (Postdoc ANID ALMA; Milky Way and Local Group)
+- Dr. Casmir Obasi (Postdoc ESO Comite Mixto; Milky Way and Local Group) / Universidad de Atacama
+- Dr. Rafael Guerco Fraga (ANID Fondecyt Postdoc; Milky Way and Local Group) / Universidad de Atacama
+- Dr. Danilo Gonzalez (Postdoc ANID ALMA; Milky Way and Local Group) / Universidad de Atacama
 
 # Acknowledgements
 
