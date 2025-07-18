@@ -2,7 +2,7 @@
 
 **UCN:** Universidad Catolica del Norte, Antofagasta, 0610
 
-**Created** 2022
+**Created:** 2022
 
 # Team
 
