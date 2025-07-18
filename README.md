@@ -17,7 +17,7 @@
 - Dr. Elisa R. Garro (ESO Fellows) / ESO Santiago
 - Dr. Mario Ortigoza Urdaneta (Professor) / Universidad de Atacama
 
-**Young Researchers:** 
+**Postdoctoral Researchers:** 
 - Dr. Casmir Obasi (Postdoc ESO Comite Mixto; Milky Way and Local Group) / Universidad Catolica del Norte
 - Dr. Rafael Guerco Fraga (ANID Fondecyt Postdoc; Milky Way and Local Group) / Universidad Catolica del Norte
 - Dr. Danilo Gonzalez (Postdoc ANID ALMA; Milky Way and Local Group) / Universidad Catolica del Norte
