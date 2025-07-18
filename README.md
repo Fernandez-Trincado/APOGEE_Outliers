@@ -6,7 +6,9 @@
 
 # Team
 
-**Director:** Dr. Jose G. Fernandez Trincado (Associate Professor)
+**Director:** 
+- Dr. Jose G. Fernandez Trincado (Associate Professor)
+
 **Principal Researchers:** 
 - Dr. Christian Moni Bidin (Associate Professor)
 - Dr. Francesco Mauro (Professor)
